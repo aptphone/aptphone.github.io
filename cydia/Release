@@ -1,0 +1,9 @@
+Origin: Neutrino/Aptphone repository
+Label: Neutrino repo
+Suite: stable
+Version: 1.0
+Codename: neutrinoapt
+Architecures: iphoneos-arm
+Components: main
+Description: Neutrino/Aptphone, an awesome repo.
+

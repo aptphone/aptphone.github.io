@@ -1,0 +1,84 @@
+Package: UserControl
+Version: 1.2
+Section: Administration
+Maintainer: Pedro Carboni <pedroalvaresleite@gmail.com>
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./deb_files/UserControl.deb
+Size: 1022
+MD5sum: e8a1f4a55b0d560a9011ef8b43fdbcf4
+Description: Lets you add users with useradd command.
+Name: User Control
+Author: Neutrino Solutions
+Sponsor: Neutrino Solutions
+Depiction: 
+Homepage: http://aptphone.github.io
+
+Package: boniutils
+Version: 1.0
+Section: Utilities
+Maintainer: Pedro Carboni <pedroalvaresleite@gmail.com>
+Depends: shell-cmds
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./deb_files/BPv1.deb
+Size: 2448
+MD5sum: 38a86796cb34619f76900fc27c4df00b
+Description: Tools for devs, hackers and tinkerers.
+Name: Boni Utilities
+Author: Neutrino Solutions
+Sponsor: Neutrino Solutions
+Depiction: 
+Homepage: http://aptphone.github.io/
+
+Package: com.neutrino
+Version: 0.1p
+Section: Tweaks
+Maintainer: Pedro Carboni <pedroalvaresleite@gmail.com>
+Depends: fjdk
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./deb_files/Neutrino.deb
+Size: 828
+MD5sum: 67c346761cd3d4e99c154154c23a842c
+Description: [PRERELEASE]The most intelligent personal assistant in the universe.
+Name: Neutrino
+Author: Neutrino Solutions
+Sponsor: Neutrino Solutions
+Depiction: 
+Homepage: http://aptphone.github.io
+
+Package: fjdk
+Version: 1.5.2
+Section: Java
+Maintainer: Pedro Carboni <pedroalvaresleite@gmail.com>
+Depends: 
+Conflicts: jamvm , jikes , classpath
+Architecture: iphoneos-arm
+Filename: ./deb_files/FreeJDK.deb
+Size: 11244700
+MD5sum: b61dfed2ffe1b362a2b626ea52cf74a0
+Description: Open Source Java development kit based on JamVM, Jikes and Classpath.
+Name: FreeJDK 1.5
+Author: Neutrino Solutions
+Sponsor: Neutrino Solutions
+Depiction: 
+Homepage: http://aptphone.github.io/
+
+Package: hbl
+Version: 0.1p
+Section: Scripting
+Maintainer: Pedro Carboni <pedroalvaresleite@gmail.com>
+Depends: 
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./deb_files/hbl.deb
+Size: 996
+MD5sum: 51556f2c8438a3e71fbc760011d0075e
+Description: [PRERELEASE] HBL, it promises to be an revolutionary language.
+Name: HBL
+Author: Pedro Carboni
+Sponsor: Neutrino Solutions
+Depiction: 
+Homepage: http://aptphone.github.io/
+
